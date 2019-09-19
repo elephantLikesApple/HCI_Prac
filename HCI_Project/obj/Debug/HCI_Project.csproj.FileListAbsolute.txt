@@ -1,0 +1,7 @@
+C:\Users\LG\source\repos\HCI_Project\HCI_Project\obj\Debug\HCI_Project.csprojAssemblyReference.cache
+C:\Users\LG\source\repos\HCI_Project\HCI_Project\obj\Debug\HCI_Project.csproj.CoreCompileInputs.cache
+C:\Users\LG\source\repos\HCI_Project\HCI_Project\bin\Debug\HCI_Project.exe.config
+C:\Users\LG\source\repos\HCI_Project\HCI_Project\bin\Debug\HCI_Project.exe
+C:\Users\LG\source\repos\HCI_Project\HCI_Project\bin\Debug\HCI_Project.pdb
+C:\Users\LG\source\repos\HCI_Project\HCI_Project\obj\Debug\HCI_Project.exe
+C:\Users\LG\source\repos\HCI_Project\HCI_Project\obj\Debug\HCI_Project.pdb
