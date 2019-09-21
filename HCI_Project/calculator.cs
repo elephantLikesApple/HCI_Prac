@@ -6,7 +6,7 @@
  * 프로그램 설명 : 실습과제 2 <평균 구하기>  // 35~64
  * *************************************/
 
- using System;
+using System;
 using System.Text;
 
 //namespace Calculator {
@@ -62,3 +62,5 @@ namespace Everage
         }
     }
 }
+
+// changes.
